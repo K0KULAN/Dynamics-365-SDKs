@@ -30,6 +30,7 @@ https://www.microsoft.com/en-gb/download/details.aspx?id=24004
 
 
 
+Disclaimer : This repository is not created as replacement for Microsoft links.  This page may not have uptodate links all the time. This repository is only created to have all the useful links in one place. Please make sure you check the latest links from Microsoft sites.
 
 
 
