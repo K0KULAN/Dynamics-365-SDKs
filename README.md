@@ -1,6 +1,6 @@
 # Dynamics-365-SDKs
 
-I have created this repository to keep all the dynamics 365 developer resource link in one place, including some SDK download archives
+I have created this repository to keep all the dynamics 365 developer resource links in one place, including some SDK download archives
 
 Download Links
 
